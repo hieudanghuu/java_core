@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/animal/Animal.iml" filepath="$PROJECT_DIR$/animal/Animal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search/BinarySearch.iml" filepath="$PROJECT_DIR$/search/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BubbleSortByStep/BubbleSortByStep.iml" filepath="$PROJECT_DIR$/BubbleSortByStep/BubbleSortByStep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionFramework/CollectionFramework.iml" filepath="$PROJECT_DIR$/CollectionFramework/CollectionFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionFramework/CollectionFrameworka.iml" filepath="$PROJECT_DIR$/CollectionFramework/CollectionFrameworka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionFramework/Exercise.iml" filepath="$PROJECT_DIR$/CollectionFramework/Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Proxy/Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SocialShare/SocialShare.iml" filepath="$PROJECT_DIR$/SocialShare/SocialShare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextFile/TextFile.iml" filepath="$PROJECT_DIR$/TextFile/TextFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_core.iml" filepath="$PROJECT_DIR$/.idea/java_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search/search.iml" filepath="$PROJECT_DIR$/search/search.iml" />
+    </modules>
+  </component>
+</project>
